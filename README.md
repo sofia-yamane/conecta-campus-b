@@ -1,6 +1,7 @@
 # conecta-campus-b
 
 # 1TDSPB - ESTUDO SOBRE VERSIONAMENTO
+O projeto será desenvolvido de forma incremental
 
 ## CRIAÇÃO DE REPOSITÓRIOS
 
